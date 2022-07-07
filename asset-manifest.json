@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anonsas/15-react-router-dom/static/css/main.ff1777cc.css",
+    "main.js": "/anonsas/15-react-router-dom/static/js/main.dd06a919.js",
+    "static/js/787.b90a4b1d.chunk.js": "/anonsas/15-react-router-dom/static/js/787.b90a4b1d.chunk.js",
+    "index.html": "/anonsas/15-react-router-dom/index.html",
+    "main.ff1777cc.css.map": "/anonsas/15-react-router-dom/static/css/main.ff1777cc.css.map",
+    "main.dd06a919.js.map": "/anonsas/15-react-router-dom/static/js/main.dd06a919.js.map",
+    "787.b90a4b1d.chunk.js.map": "/anonsas/15-react-router-dom/static/js/787.b90a4b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff1777cc.css",
+    "static/js/main.dd06a919.js"
+  ]
+}
