@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anonsas/15-react-router-dom/static/css/main.ff1777cc.css",
-    "main.js": "/anonsas/15-react-router-dom/static/js/main.bf4d663c.js",
-    "static/js/787.b90a4b1d.chunk.js": "/anonsas/15-react-router-dom/static/js/787.b90a4b1d.chunk.js",
-    "index.html": "/anonsas/15-react-router-dom/index.html",
-    "main.ff1777cc.css.map": "/anonsas/15-react-router-dom/static/css/main.ff1777cc.css.map",
-    "main.bf4d663c.js.map": "/anonsas/15-react-router-dom/static/js/main.bf4d663c.js.map",
-    "787.b90a4b1d.chunk.js.map": "/anonsas/15-react-router-dom/static/js/787.b90a4b1d.chunk.js.map"
+    "main.css": "/15-react-router-dom/static/css/main.ff1777cc.css",
+    "main.js": "/15-react-router-dom/static/js/main.02c53245.js",
+    "static/js/787.532baa44.chunk.js": "/15-react-router-dom/static/js/787.532baa44.chunk.js",
+    "index.html": "/15-react-router-dom/index.html",
+    "main.ff1777cc.css.map": "/15-react-router-dom/static/css/main.ff1777cc.css.map",
+    "main.02c53245.js.map": "/15-react-router-dom/static/js/main.02c53245.js.map",
+    "787.532baa44.chunk.js.map": "/15-react-router-dom/static/js/787.532baa44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff1777cc.css",
-    "static/js/main.bf4d663c.js"
+    "static/js/main.02c53245.js"
   ]
 }
