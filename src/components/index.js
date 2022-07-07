@@ -9,3 +9,5 @@ export { default as Shoes } from './Products/Shoes';
 
 export { default as Users } from './Users/Users';
 export { default as User } from './Users/User';
+
+export { default as NotFound } from './NotFound';

@@ -1,6 +1,6 @@
 {
-  "name": "router",
-  "homepage": "https://github.com/anonsas/15-react-router-dom/",
+  "name": "15-react-router-dom",
+  "homepage": "https://anonsas.github.com.io/15-react-router-dom",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
